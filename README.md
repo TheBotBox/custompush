@@ -1,2 +1,2 @@
 # custompush
-This repo implements Factory Design Pattern in android for generating Custom Push Notifications with ease.
+This repo implements Factory Design Pattern for generating Custom Push Notifications with ease in android .
